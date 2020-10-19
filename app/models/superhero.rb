@@ -1,4 +1,4 @@
-class Superhero
+class Member
   
   attr_reader :name, :power, :bio 
   
